@@ -1,0 +1,6 @@
+@DevBank_WebApi_HostAddress = http://localhost:5214
+
+GET {{DevBank_WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

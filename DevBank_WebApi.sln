@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevBank_WebApi", "DevBank_WebApi\DevBank_WebApi.csproj", "{39A1B16B-1EB6-4015-8FB5-A129CC34D031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A1B16B-1EB6-4015-8FB5-A129CC34D031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A1B16B-1EB6-4015-8FB5-A129CC34D031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A1B16B-1EB6-4015-8FB5-A129CC34D031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A1B16B-1EB6-4015-8FB5-A129CC34D031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
