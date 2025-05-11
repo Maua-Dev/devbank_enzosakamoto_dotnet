@@ -11,4 +11,9 @@ public class TransactionRepository : ITransactionRepository
         Transactions.Add(transaction);
         return await Task.FromResult(transaction);
     }
+    
+    public async Task<IReadOnlyList<Transaction>> GetAllTransactions() 
+    {
+        return await Task.FromResult(Transactions);
+    }
 }
