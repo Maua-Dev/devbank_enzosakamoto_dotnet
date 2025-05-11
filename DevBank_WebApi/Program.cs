@@ -10,7 +10,7 @@ builder.Services.AddControllers();
 
 // Dependency Injection
 builder.Services
-    .AddUserController();
+    .AddUserFeatures();
 
 var app = builder.Build();
 
